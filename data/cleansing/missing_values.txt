@@ -1,0 +1,198 @@
+Number of rows and columns in data_r_mean_filled.csv:
+(89280, 26)
+
+Missing values in data_r_mean_filled.csv:
+Day                       0
+Month                     0
+Year                      0
+States/UTs                0
+Rice                      0
+Wheat                     0
+Atta (Wheat)              0
+Gram Dal                  0
+Tur/Arhar Dal             0
+Urad Dal                  0
+Moong Dal                 0
+Masoor Dal                0
+Sugar                     0
+Milk @                    0
+Groundnut Oil (Packed)    0
+Mustard Oil (Packed)      0
+Vanaspati (Packed)        0
+Soya Oil (Packed)         0
+Sunflower Oil (Packed)    0
+Palm Oil (Packed)         0
+Gur                       0
+Tea Loose                 0
+Salt Pack (Iodised)       0
+Potato                    0
+Onion                     0
+Tomato                    0
+dtype: int64
+
+Number of rows and columns in data_w_mean_filled.csv:
+(88775, 26)
+
+Missing values in data_w_mean_filled.csv:
+Day                       0
+Month                     0
+Year                      0
+States/UTs                0
+Rice                      0
+Wheat                     0
+Atta (Wheat)              0
+Gram Dal                  0
+Tur/Arhar Dal             0
+Urad Dal                  0
+Moong Dal                 0
+Masoor Dal                0
+Sugar                     0
+Milk @                    0
+Groundnut Oil (Packed)    0
+Mustard Oil (Packed)      0
+Vanaspati (Packed)        0
+Soya Oil (Packed)         0
+Sunflower Oil (Packed)    0
+Palm Oil (Packed)         0
+Gur                       0
+Tea Loose                 0
+Salt Pack (Iodised)       0
+Potato                    0
+Onion                     0
+Tomato                    0
+dtype: int64
+
+
+
+Number of rows and columns in data_r_median_filled.csv:
+(89280, 26)
+
+Missing values in data_r_median_filled.csv:
+Day                       0
+Month                     0
+Year                      0
+States/UTs                0
+Rice                      0
+Wheat                     0
+Atta (Wheat)              0
+Gram Dal                  0
+Tur/Arhar Dal             0
+Urad Dal                  0
+Moong Dal                 0
+Masoor Dal                0
+Sugar                     0
+Milk @                    0
+Groundnut Oil (Packed)    0
+Mustard Oil (Packed)      0
+Vanaspati (Packed)        0
+Soya Oil (Packed)         0
+Sunflower Oil (Packed)    0
+Palm Oil (Packed)         0
+Gur                       0
+Tea Loose                 0
+Salt Pack (Iodised)       0
+Potato                    0
+Onion                     0
+Tomato                    0
+dtype: int64
+
+Number of rows and columns in data_w_median_filled.csv:
+(88775, 26)
+
+Missing values in data_w_median_filled.csv:
+Day                       0
+Month                     0
+Year                      0
+States/UTs                0
+Rice                      0
+Wheat                     0
+Atta (Wheat)              0
+Gram Dal                  0
+Tur/Arhar Dal             0
+Urad Dal                  0
+Moong Dal                 0
+Masoor Dal                0
+Sugar                     0
+Milk @                    0
+Groundnut Oil (Packed)    0
+Mustard Oil (Packed)      0
+Vanaspati (Packed)        0
+Soya Oil (Packed)         0
+Sunflower Oil (Packed)    0
+Palm Oil (Packed)         0
+Gur                       0
+Tea Loose                 0
+Salt Pack (Iodised)       0
+Potato                    0
+Onion                     0
+Tomato                    0
+dtype: int64
+
+
+
+Number of rows and columns in data_r_mode_filled.csv:
+(89280, 26)
+
+Missing values in data_r_mode_filled.csv:
+Day                       0
+Month                     0
+Year                      0
+States/UTs                0
+Rice                      0
+Wheat                     0
+Atta (Wheat)              0
+Gram Dal                  0
+Tur/Arhar Dal             0
+Urad Dal                  0
+Moong Dal                 0
+Masoor Dal                0
+Sugar                     0
+Milk @                    0
+Groundnut Oil (Packed)    0
+Mustard Oil (Packed)      0
+Vanaspati (Packed)        0
+Soya Oil (Packed)         0
+Sunflower Oil (Packed)    0
+Palm Oil (Packed)         0
+Gur                       0
+Tea Loose                 0
+Salt Pack (Iodised)       0
+Potato                    0
+Onion                     0
+Tomato                    0
+dtype: int64
+
+Number of rows and columns in data_w_mode_filled.csv:
+(88775, 26)
+
+Missing values in data_w_mode_filled.csv:
+Day                       0
+Month                     0
+Year                      0
+States/UTs                0
+Rice                      0
+Wheat                     0
+Atta (Wheat)              0
+Gram Dal                  0
+Tur/Arhar Dal             0
+Urad Dal                  0
+Moong Dal                 0
+Masoor Dal                0
+Sugar                     0
+Milk @                    0
+Groundnut Oil (Packed)    0
+Mustard Oil (Packed)      0
+Vanaspati (Packed)        0
+Soya Oil (Packed)         0
+Sunflower Oil (Packed)    0
+Palm Oil (Packed)         0
+Gur                       0
+Tea Loose                 0
+Salt Pack (Iodised)       0
+Potato                    0
+Onion                     0
+Tomato                    0
+dtype: int64
+
+
+
